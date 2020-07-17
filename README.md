@@ -1,2 +1,2 @@
 # portfoliotemplate
-Mobile first, mobile response portfolio template design
+Mobile first, responsive portfolio template design
